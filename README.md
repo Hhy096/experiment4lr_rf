@@ -86,3 +86,5 @@ Design an integrated package for running experiments of logistic regression or r
   - **self.fig_confusion_test:** the confusion matrix in test data.
   - **self.fig_roc_test:** the ROC curve in test data.
   - **self.fig_violin_test:** the violin plot in testa data.
+
+### For specific examples, please refer to 
